@@ -1,0 +1,45 @@
+/* constainers */
+
+main{
+  display: flex;
+  flex-direction: row;
+}
+.sidebar-nav{
+  height: 600px;
+  width: 275px;
+  border: solid 1px black;
+  background-color:#99f0e2
+}
+.gallery{
+  height: 600px;
+  width: 1075px;
+  border: solid 1px black;
+  background-color:#fa5a8b;
+}
+.sidebar-cart{
+  height: 600px;
+  width: 255px;
+  background-color:#99f0e2
+}
+.footer-name{
+  background-color:#f1fbc4;
+  width: 600px;
+  height: 175px;
+}
+.footer-links{
+  background-color:#f1fbc4;
+  width: 600px;
+  height:175px;
+}
+.footer-socials{
+  background-color:black;
+  color: white;
+  width: 230px;
+  height:175px
+}
+footer{
+  display: flex;
+  flex-direction: row;
+  align-items: flex-end;
+}
+/* items */
