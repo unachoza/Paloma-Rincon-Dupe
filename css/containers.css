@@ -5,10 +5,9 @@ main{
   flex-direction: row;
 }
 .sidebar-nav{
-  height: 600px;
   width: 300px;
   border: solid 1px black;
-  background-color:#99f0e2
+  /* background-color:#99f0e2 */
 }
 .gallery{
   height: 600px;
