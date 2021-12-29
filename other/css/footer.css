@@ -1,0 +1,26 @@
+.footer-middle{
+  display: flex;
+  flex-direction: column;
+  overflow-x: auto;
+  overflow-y: hidden;
+
+}
+ul{
+  flex-wrap: wrap;
+    height: 175px;
+}
+li{
+  padding: 12px;
+}
+.footer-name{
+  display: flex;
+  justify-content:center;
+  align-items:center;
+  font-size:22px;
+}
+ul.unstlyed.social-links{
+  border: sold white;
+}
+.online-store-text{
+  font-size:12px
+}
