@@ -4,7 +4,7 @@ import "./Contact.css";
 const ProductList = () => {
   return (
     <div className="App">
-      Contact Page is super different than everything else
+      Contact Page
       <form>
         <div className="input">
           <label for="name"/>
